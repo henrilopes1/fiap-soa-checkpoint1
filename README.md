@@ -15,8 +15,8 @@ Este projeto é uma API REST desenvolvida com Spring Boot para cadastro e gerenc
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/fiap-checkpoint1.git
-cd fiap-checkpoint1
+git clone https://github.com/seu-usuario/fiap-soa-checkpoint1.git
+cd fiap-soa-checkpoint1
 ```
 
 2. **Execute o projeto:**
