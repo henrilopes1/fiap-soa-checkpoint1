@@ -108,20 +108,23 @@ http://localhost:8080/h2-console
 
 ---
 
-## ✅ Testes obrigatórios realizados
+## 🧪 Testes realizados
 
-- ✔️ Criar um novo pedido
-- ![image.png](attachment:1158a068-db6b-41fe-99a4-a64346d401cd:image.png)
-- ✔️ Buscar todos os pedidos
-- ![image.png](attachment:8b0ff380-79da-4701-ae1e-6df6e2499b7e:image.png)
-- ✔️ Buscar pedido por ID
-- ![image.png](attachment:60e1bd5b-34e1-4621-b4b7-7611f3122197:image.png)
-- ✔️ Atualizar um pedido
-- ![image.png](attachment:d9701d80-de9a-4b25-aa88-afece8178edf:image.png)
-- ✔️ Deletar um pedido
-- ![image.png](attachment:1f2c4377-3e01-48e3-91a4-4ab1c74d9cec:image.png)
+### 🔸 Criar Pedido (POST)
+![Criar Pedido](images/post-criar-pedido.png)
 
-📸 *(Adicione prints das telas do Postman aqui, conforme solicitado no checkpoint)*
+### 🔸 Listar Pedidos (GET)
+![Listar Pedidos](images/get-listar-pedidos.png)
+
+### 🔸 Buscar por ID (GET)
+![Buscar por ID](images/get-por-id.png)
+
+### 🔸 Atualizar Pedido (PUT)
+![Atualizar Pedido](images/put-atualizar-pedido.png)
+
+### 🔸 Deletar Pedido (DELETE)
+![Deletar Pedido](images/delete-remover-pedido.png)
+
 
 ---
 
